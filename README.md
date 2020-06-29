@@ -1,1 +1,1 @@
-[demo][https://orue.github.io/quote-generator/]
+[demo](https://orue.github.io/quote-generator/)
